@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pious soul's daily exercise: or, A guide to eternal glory Being manna gathered out of the Holy Scriptures to refresh the true Chrisitan in his passage through this vale of tears to the heavenly Canaan. By G.L.</title>
+            <author>G. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54919</idno>
+            <idno type="STC">Wing P2282D</idno>
+            <idno type="STC">ESTC R218932</idno>
+            <idno type="EEBO-CITATION">99830483</idno>
+            <idno type="PROQUEST">99830483</idno>
+            <idno type="VID">34935</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34935)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2074:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pious soul's daily exercise: or, A guide to eternal glory Being manna gathered out of the Holy Scriptures to refresh the true Chrisitan in his passage through this vale of tears to the heavenly Canaan. By G.L.</title>
+                  <author>G. L.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The sixth edition corrected.</edition>
+               </editionStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Marshall at the Bible in Grace-Church-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title page: Where you may be supplied with Dr. Owen's, Mr. Bunyan's, and the late reverend Mr. Mead's works.</note>
+                  <note>Includes a final advertisement page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34935:1" rendition="simple:additions"/>
+            <pb facs="tcp:34935:1" rendition="simple:additions"/>
+            <p>THE Pious Soul's Daily Exerciſe: OR, A GUIDE TO Eternal Glory.</p>
+            <p>BEING <hi>MANNA</hi> Gathered out of the Holy Scriptures to Refreſh the True Chri<g ref="char:EOLhyphen"/>ſtian in his Paſſage through this Vale of TEARS to the Heavenly <hi>CANAAN.</hi>
+            </p>
+            <p>By <hi>G. L.</hi>
+            </p>
+            <p>The Sixth Edition Corrected.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iohn Marſhall,</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street.</hi> 1700.</p>
+            <p>Where you may be ſupplied with Dr. <hi>Owen</hi>'s, Mr. <hi>Bunyan</hi>'s, and the Late Reverend Mr. <hi>Mead</hi>'s Works.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34935:2"/>
+            <head>Books Newly Printed and Sold by <hi>John Marſhall,</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street.</hi>
+            </head>
+            <p>THE Young Man's Remembrancer, and Youth's Beſt Choice; being an Exhorta<g ref="char:EOLhyphen"/>tion to Converſion, in Anniverſary Diſcourſes from <hi>Eccleſ.</hi> 12. 1. By <hi>M. M.</hi> Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The Effigies of the Late Reverend and Pious Mr. <hi>Matthew Mead,</hi> newly Engraved to the Life, by an Ingenious Hand; alſo ſeveral other Mini<g ref="char:EOLhyphen"/>ſters Effigies.</p>
+            <p>An Elegiack Eſſay on the Pious Memory of Mr. <hi>Matthew Mead,</hi> Late Miniſter at <hi>Stepney.</hi> Price Sticht 6 <hi>d.</hi>
+            </p>
+            <p>The Heavenly Footman; or, A Deſcription of the Man that gets to Heaven. The Second Edition. By Mr. <hi>Bunyan,</hi> Author of <hi>The Pilgrim's Progreſs.</hi> With the Life and Character of Mr. <hi>Bu<g ref="char:EOLhyphen"/>nyan.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The Flowings of Chriſt's Blood freely to Sin<g ref="char:EOLhyphen"/>ners, <hi>&amp;c.</hi> Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>Temple Songs; or Hymns Compoſed to be Sung at the Celebration of the Lord's Supper, every Hymn fitted to two Tunes.</p>
+            <p>Spiritual Songs; being the Marrow of the Scriptures, in Songs of Praiſe to Almighty God from the Old and New Teſtament, with a Hun<g ref="char:EOLhyphen"/>dred Divine Hymns on ſeveral Occaſions, as now practiſed in the ſeveral Congregations in and about <hi>London.</hi> The Second Edition. By <hi>Benja<g ref="char:EOLhyphen"/>min Keach,</hi> Author of <hi>The War with the Devil.</hi>
+            </p>
+            <p>Youth's Recreation; or, A Copy-book of Round hand. By <hi>William Elder.</hi>
+            </p>
+            <p>A Reaſonable Word to the Doctors of Reaſon. Price Bound 1 <hi>s.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:34935:2"/>
+            <head>Manna Gathered, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP.</hi> I.</head>
+               <p n="1">1 WHEN I am weary of travelling in the Day, the hopes of reſt at Night is a Refreſhment: O then the Thoughts of Heaven are ſweet, after our ſhort Pilgrimage.</p>
+               <p n="2">2 It is a true Diſpoſition of a Child of God, to be tender of his Father's Honour, being in his Fear all the Day.</p>
+               <p n="3">3 All Grace flows in upon the humble Soul, as Waters from the Hills into the Valleys, making he Soul rich in God.</p>
+               <p n="4">4 And ſince humble Souls are only ſafe, we muſt either humble our ſelves, or, if God love us, the will.</p>
+               <p n="5">5 Yet if Humiliation have not Faith and Hope, to raiſe the Soul to ſome comfort in God, it turns to Deſparation.</p>
+               <p n="6">6 Fear for Sin proceeding from inward Grief, is a Temper becoming any Chriſtian.</p>
+               <p n="7">7 Magiſtrates that are tenderly Affectionate to<g ref="char:EOLhyphen"/>wards a People, ſhall have a Peoples tender Affe<g ref="char:EOLhyphen"/>ctions towards them.</p>
+               <p n="8">8 It is great cauſe of Weeping to a gracious Heart, that he cannot Weep.</p>
+               <p n="9">9 Prayers begs Bleſſings from God, and thank<g ref="char:EOLhyphen"/>fulneſs continues them with Man.</p>
+               <p n="10">10 Many times there is moſt Grief, where there is feweſt Tears.</p>
+               <p n="11">
+                  <pb n="4" facs="tcp:34935:3"/>11 Spiritual Sorrow is a great deal better than natural; for it comforts the Soul.</p>
+               <p n="12">12 He that prays with Reſolution to ſin, goes to God with a Petition in one hand, and a Dag<g ref="char:EOLhyphen"/>ger in the other.</p>
+               <p n="13">13 Whatſoever the Croſſes of a Godly Man be, his latter end ſhall be aſſuredly Bleſt.</p>
+               <p n="14">14 God takes notice of every good Word and Work the Godly do, and will reward it.</p>
+               <p n="15">15 When a Chriſtian looks only on the Ill that is in him, he robs God of his Glory, and himſelf of Comfort.</p>
+               <p n="16">16 The Good are ſcattered amongſt the Bad in this Life, but at Death they ſhall be divided.</p>
+               <p n="17">17 He that joins himſelf in love and affection to Wicked Men on Earth, ſhall alſo be joined in Tor<g ref="char:EOLhyphen"/>ment and Deſtruction in Hell, without Repentance.</p>
+               <p n="18">18 Death is the King of Terrours; but that which is at his Back is more terrible, Damnation to the Wicked.</p>
+               <p n="19">19 Many times good Parents are taken away, that they may not ſee the ruin of their Children.</p>
+               <p n="20">20 Good Chriſtians are like good Corn, will ſoon<g ref="char:EOLhyphen"/>er be ground to pouder, than yield to the rough Blaſts of Perſecution, or ſmooth Flatterings of Errour and Hereſie.</p>
+               <p n="21">21 The chief care of a good Magiſtrate, is for the good of Church and State.</p>
+               <p n="22">22 A Godly Man is freed from the Law, as his Judge, but not as his Counſellor.</p>
+               <p n="23">23 If a Godly Man go out of the way, he ſhall ſmart for it, and be whipp'd home again.</p>
+               <p n="24">24 We walk by Faith in this World's ſenſe, and Sight is reſerv'd for Heaven.</p>
+               <p n="25">25 No good is to be done to the Soul by Pray<g ref="char:EOLhyphen"/>ers and Cries, ſo long as we are careleſs of puri<g ref="char:EOLhyphen"/>fying the Heart.</p>
+               <p n="26">
+                  <pb n="5" facs="tcp:34935:3"/>26 Let not thy Affection rove, and the Devil and the World can do thee no hurt.</p>
+               <p n="27">27 He that ſuppreſſeth ſin at the firſt motion, ſhall find Comfort.</p>
+               <p n="28">28 If we mean to come to Heaven, we muſt not live in any known Sin; for it darkens Grace.</p>
+               <p n="29">29 For a Chriſtian ought to mend his pace e<g ref="char:EOLhyphen"/>very Day, that Grace may ſhine more and more, to the perfect Day.</p>
+               <p n="30">30 Every poor Man is not a bleſt Man, except his Bodily Poverty bring him to Spiritual Poverty.</p>
+               <p n="31">31 He that hath Spiritual Comforts, hath them cheap, tho' they coſt them many a Tear.</p>
+               <p n="32">32 The Heart is never ſo chearful, as when it pours it ſelf out in Tears and Sighs to God.</p>
+               <p n="33">33 For Spiritual Mourning ſecures the Soul from Hell Mourning.</p>
+               <p n="34">34 All Worldly Sorrow is to be ſorrow'd a<g ref="char:EOLhyphen"/>gainſt, but Sorrow for ſin is never to be repented of.</p>
+               <p n="35">35 The Adventure and Return of the Stocks of Prayers, is moſt certain to increaſe more and more.</p>
+               <p n="36">36 He that never knocks at Heavens Gates till Death, deſerves to have the Gate knocked on his Teeth.</p>
+               <p n="37">37 He that would ſpeed in Temporal Things, muſt firſt ſeek Spiritual.</p>
+               <p n="38">38 Cold Prayers have cold Anſwers; for<g ref="char:punc">▪</g> how ſhould God hear us, when we hear not our ſelves?</p>
+               <p n="39">39 He that would be ſure to have his Prayers heard, muſt make a conſtant Trade in them.</p>
+               <p n="40">40 The forgetfulneſs of receiv'd Mercies, makes God forget us.</p>
+               <p n="41">41 We muſt put our Hands to the Plow, and then pray that our Endeavours may be Bleſſed.</p>
+               <p n="42">42 For to ask Grace, and not to uſe the Means, is to knock at Heavens Gate, and pull it cloſe on us.</p>
+               <p n="43">
+                  <pb n="6" facs="tcp:34935:4"/>43 He that ſays, Lord, forgive me my Sins, without a deſire to leave them, cannot be heard without God forfeit his Word.</p>
+               <p n="44">44 If Heavenly things were ſoon obtained, they would be ſoon forgotten.</p>
+               <p n="45">45 Nothing more humbles the Child of God, than to be buffetted with baſe Temptations.</p>
+               <p n="46">46 He hath not loſt his Prayers, but is doubly paid; who with the Croſſes of the VVorld hath his Heart taken off the VVorld.</p>
+               <p n="47">47 He that hath moſt Grace, hath moſt VVork to do, and moſt Tryal to buckle withal.</p>
+               <p n="48">48 Some are unfit to Pray, as ever <hi>David</hi> was to March in <hi>Saul</hi>'s Armour.</p>
+               <p n="49">49 For the bringing forth of a right Prayer, is like the bringing forth of a Child, with many Throws; yet when the Child is born, there is much Joy.</p>
+               <p n="50">50 He that ſees not his own Infirmities, is nei<g ref="char:EOLhyphen"/>ther patient nor pitiful; not knowing himſelf, Brother, nor God.</p>
+               <p n="51">51 Our Infirmities ſhould be matter of Humi<g ref="char:EOLhyphen"/>liation, not Deſperation.</p>
+               <p n="52">52 Tho' the Glory of a Saint be not ſeen by every Eye, yet they have an Excellency in the midſt of all Deformities.</p>
+               <p n="53">53 For he that ſees not a true Chriſtian to be a glorious Creature, has but a fleſhly Eye.</p>
+               <p n="54">54 No Company nor Comfort ſhould put off the Thoughts of Death.</p>
+               <p n="55">55 For Death will be terrible to that Man, that dyes not in his Thoughts daily.</p>
+               <p n="56">56 Sin unrepented of, will bring a Sting in the time of Death; filling the Conſcience with Hor<g ref="char:EOLhyphen"/>ror and Amazement.</p>
+               <p n="57">57 He that lays much on Nature's Back, will break it; and that truſts to Natural Parts, ſhall be diſappointed.</p>
+               <p n="58">
+                  <pb n="7" facs="tcp:34935:4"/>58 All carnal Delights and Pleaſures are but Poiſon if grace be not in the Heart for an Antidote.</p>
+               <p n="59">59 Peace of Conſcience will make a Man re<g ref="char:EOLhyphen"/>joice in Sorrow, and live in Death.</p>
+               <p n="60">60 An Hypocrite may ſeem better than a real Chriſtian; but like Corn on the Houſe top, ſoon ripe, ſoon rotten.</p>
+               <p n="61">61 He that would profit in Heavenly Myſte<g ref="char:EOLhyphen"/>ries, muſt be knit to them, not by the Brain, but by the Affections.</p>
+               <p n="62">62 The Signs at the Table, Seals no Grace to the Soul, where there is no Faith.</p>
+               <p n="63">63 VVe are very ſenſible of Bodily-Hunger; but Soul-Hunger is hardly felt.</p>
+               <p n="64">64 The VVorld to come is good Mens Hope, and bad Mens Fear.</p>
+               <p n="65">65 He that will not be broken from Sin, ſhall have no portion in Chriſt's Body broken.</p>
+               <p n="66">66 He that maketh a Divorce betwixt his Soul and Corruption, is in the State of Grace.</p>
+               <p n="67">67 It is no Preſumption, but our Duty, to judge by our Effectual Calling of our Election.</p>
+               <p n="68">68 To know there is a Chriſt, and not our In<g ref="char:EOLhyphen"/>tereſt in him; is rather a Puniſhment, than a Comfort.</p>
+               <p n="69">69 A ſinful doubting Soul, lives next in the Suburbs of Hell.</p>
+               <p n="70">70 As Grace and Glory, ſo Sin and Shame goes together.</p>
+               <p n="71">71 The more ſanctified Afflictions on Earth, the more weight of Glory in Heaven.</p>
+               <p n="72">72 Sin may draw down Judgment on a Godly Man, but ſhall not reſt on him.</p>
+               <p n="73">73 Let us have a care of being fair-tongu'd Hypocrites, leſt we get <hi>Balaam</hi>'s Brand, and <hi>Pi<g ref="char:EOLhyphen"/>late</hi>'s End; <hi>Euſebius, lib. 2. chap.</hi> 7. ſays, he was brought to ſuch Miſery, that he Murdered himſelf.</p>
+               <p n="74">
+                  <pb n="8" facs="tcp:34935:5"/>74 It is all one to Chriſt our Surety, to pay our great Debts as well as our ſmall.</p>
+               <p n="75">75 He that would avoid Sin, muſt avoid the occaſion of Sin.</p>
+               <p n="76">76 Saint by their great falls loſe their Commu<g ref="char:EOLhyphen"/>nion, but not their Union with God.</p>
+               <p n="77">77 God's Love to us, and our Love to him, is like Corks in the deep VVaters of Affliction, car<g ref="char:EOLhyphen"/>rying up the Sonl to eternal Bliſs.</p>
+               <p n="78">78 Satan and Seducers ſometimes ſpeaks Truth for their own advantage.</p>
+               <p n="79">79 It is both ſin and ſhame, that Chriſtians break Oaths one to another, when Heathens diſ<g ref="char:EOLhyphen"/>dained it to <hi>Uladiſlaus.</hi>
+               </p>
+               <p n="80">80 It is Satan's policy, either to let us ſee no Sin, or nothing but Sin</p>
+               <p n="81">81 No Scripture ſaith, the greatneſs of Man's Sin hinders the greatneſs of God's Mercy.</p>
+               <p n="82">82 Oh let us admire the free Grace of God! and to know he does not ſhew Mercy becauſe we pleaſe him, but becauſe Mercy pleaſes him.</p>
+               <p n="83">83 He that depends upon the Power and Mer<g ref="char:EOLhyphen"/>cy of God in his Ordinances, ſhall be ſure to find Joy and Comfort.</p>
+               <p n="84">84 VVhen all means fail, let the Soul look up to God; for then is the fitteſt time to meet God, and diſappoint Satan.</p>
+               <p n="85">85 As a Tree may want Fruit and Leaves when the Sap is at the Root; ſo a Chriſtian may want Sence and Feeling when true Faith.</p>
+               <p n="86">86 He that liſtens to carnal Reaſoning in his VVay to Heaven, ſins deeply, and wounds his Soul dangerouſly.</p>
+               <p n="87">87 The cleareſt Day of outward Comforts, may be clouded e're Night.</p>
+               <p n="88">88 Riches make themſelves VVings to fly a<g ref="char:EOLhyphen"/>way, while we are making Doors and Boults to keep them in.</p>
+               <p n="89">
+                  <pb n="9" facs="tcp:34935:5"/>89 No ſickneſs nor affliction can wear out the Marks by which Chriſt knows us.</p>
+               <p n="90">90 In great Sorrows the Mind is very unfit to to take in Comfort.</p>
+               <p n="91">91 A Flint and Steel conſume one another, ſo do proud and hard Spirits wanting Grace.</p>
+               <p n="92">92 Of old, in making a Coventant, they uſed to cut the Heifer, or put a ſuckled Sow betwixt them, to ſignifie the Breaker of no more eſteem.</p>
+               <p n="93">93 They that are in the Covenant with God, may ſay their Maker is their Husband, the Lord of Hoſts is his Name, it ſhall ſtand for ever.</p>
+               <p n="94">94 Better be preſerved in the Brine of Afflicti<g ref="char:EOLhyphen"/>on, than rot in the Honey of Proſperity.</p>
+               <p n="95">95 It is a Temporal Bleſſing to the wicked, to have the Godly live among them; and proves their ruin, when they are removed; witneſs <hi>Noah, Lot, Joſeph.</hi>
+               </p>
+               <p n="96">96 The Devil accuſing bold <hi>Rothel</hi> face to face, bade him, Be gone thou damn'd Devil, I have an Interceſſor, and thou none.</p>
+               <p n="97">97 If the Society of the Godly be ſo pleaſant here, Oh how joyful ſhall it be hereafter with the Viſion of God, holy Angels, and the Spirits of Juſt Men made perfect, where no unclean thing can enter!</p>
+               <p n="98">98 Honeſty and Plain-dealing did, and ever will prove the beſt policy.</p>
+               <p n="99">99 In ſelf-judging, a Believer ought to obſerve his good as well as his bad, and not to lye at a catch with his own Soul, and take it at the worſt.</p>
+               <p n="100">100. Better croſs our own Humours, than God's Spirit: For he tells us, better pluck and cut our Eyes and Feet of Luſts off, than go to Hell.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP.</hi> II.</head>
+               <p n="1">1 LET Men hold to the Word in Diſpute with Satan, as Chriſt and <hi>Michael</hi> did, he will be weary, and go away.</p>
+               <p n="2">
+                  <pb n="10" facs="tcp:34935:6"/>2 Look from one end of Heaven to the other, and ſee if ever any Man truſting in God was diſappointed.</p>
+               <p n="3">3 Every Soul in going to Prayer, ought to ſay to all ſublunary things, as <hi>Abraham</hi> ſaid to his Servants, Stand you here, while I go worſhip yonder.</p>
+               <p n="4">4 We muſt not think to bring any good to the Promiſes, but go to them for all good.</p>
+               <p n="5">5 O precious Faith, which brings all good with it; Grace here, and Glory hereafter.</p>
+               <p n="6">6 It is an infallible mark of Regeneration, to have the cruelty of our Natures taken away.</p>
+               <p n="7">7 He that refuſes Works of Mercy to thoſe in need, is a Miſer.</p>
+               <p n="8">8 The Word is ſweeter to the Godly than Ho<g ref="char:EOLhyphen"/>ney from the Comb, and dearer to him than thou<g ref="char:EOLhyphen"/>ſands of Gold and Silver.</p>
+               <p n="9">9 As a Godly Man ſaid at Death, <hi>If he were not going to the Fountain, he would be ſorry to leave ſuch Streams as the Promiſes.</hi>
+               </p>
+               <p n="10">10 No Man can love a Saint as a Saint, but a Saint.</p>
+               <p n="11">11 The Doctrine of Chriſt is preached to many, but the Power thereof but extended to a few.</p>
+               <p n="12">12 That Man is holy and harmleſs, who when opportunity of Revenge to his Enemy is offer'd, yet forbears. <hi>David</hi> to <hi>Saul.</hi>
+               </p>
+               <p n="13">13 It is a ſign of a woful Eſtate, when our Tongues and Hearts are ſet on Miſchief on ſmall Matters.</p>
+               <p n="14">14 No Man is turned to God, but he loves the Society he formerly hated.</p>
+               <p n="15">15 A Heart ſet upon Brawling and Raging, is void of Comfort.</p>
+               <p n="16">16 He may be ſure of the Remiſſion of his ſins, who is releaſed from the Bondage of ſin.</p>
+               <p n="17">
+                  <pb n="11" facs="tcp:34935:6"/>17 He that would make all Comfort ſure to him<g ref="char:EOLhyphen"/>ſelf, ſhould firſt make ſure. that his ſins is forgiven him.</p>
+               <p n="18">18 The only way to quiet our Hearts, is to hearken what God ſays.</p>
+               <p n="19">19 Miſery to the Righteous is as a Sojourner, but it reſts on the back of the Wicked.</p>
+               <p n="20">20 The Means, Time, and Meaſure of Affliction is of God's own Appointment.</p>
+               <p n="21">21 There is another Life beſides natural Life, and the Root of it is in Chriſt our Head.</p>
+               <p n="22">22 He that finds ſuch an Antipathy betwixt his Spirit and Sin, as betwixt him and poyſon, hath true Grace in his Heart.</p>
+               <p n="23">23 We muſt hate the Converſation of ſuch who hinders us in the growth of ſpiritual Life.</p>
+               <p n="24">24 As without ſhedding of Blood no forgive<g ref="char:EOLhyphen"/>neſs of ſin; ſo without the Spirit ſeals the Pro<g ref="char:EOLhyphen"/>miſes to our Souls we have no Comfort.</p>
+               <p n="25">25 Chriſt is the Fountain of ſpiritual Life, but Faith is the Pipe conveying it to us.</p>
+               <p n="26">26 Better for us to ſleep in a Houſe full of Ser<g ref="char:EOLhyphen"/>pents and Adders, than in a ſtate of ſin.</p>
+               <p n="27">27 Happy Practices, when with the Day we clear the ſins of the Day, fitting our ſelves for Life or Death.</p>
+               <p n="28">28 Every falling into ſin in a Believer, is not a total falling away.</p>
+               <p n="29">29 <hi>Samſon</hi>'s ſtrength was in his Locks, but our ſtrength againſt ſin and errour is in Chriſt.</p>
+               <p n="30">30 The ſenſe of God's love is ſometimes with<g ref="char:EOLhyphen"/>drawn, to make us mourn for it the more.</p>
+               <p n="31">31 VVhen Afflictions are doubled, it is time to pray hard, believe, and apply the Promiſes, and Deliverance will come.</p>
+               <p n="32">32 God's time of helping the poor and needy, is when all other helps is at a ſtand.</p>
+               <p n="33">
+                  <pb n="12" facs="tcp:34935:7"/>33 After Faith ends on Earth, comes the Life of Viſion in Heaven.</p>
+               <p n="34">34 All that the Father gives by Election, Chriſt by Redemption ſaves.</p>
+               <p n="35">35 God rains the ſhowers of his Ordinances up<g ref="char:EOLhyphen"/>on all, but Believers reaps the benefit only.</p>
+               <p n="36">36 Chriſt is our Husband; Faith yields conſent, and that makes the Match.</p>
+               <p n="37">37 Many are in the ſtate of Grace, relying on Mercy, and wanting the aſſurance of Pardon.</p>
+               <p n="38">38 Satan applying himſelf to the Diſtemper of a melancholy Spirit, keeps it in Darkneſs.</p>
+               <p n="39">39 As Parents ſhews their love to the weakeſt Child, ſo God manifeſts his love to weak Chriſtians</p>
+               <p n="40">40 VVhere there is Faith, there is Prayer; for Faith is the pattern of Prayer, and Prayer is the breath of Faith.</p>
+               <p n="41">41 A broken Heart expreſſes it ſelf more in Sighs and Groans than VVords, which the Spirit only underſtands.</p>
+               <p n="42">42 The ſenſe of Chriſt's love in pardoning ſin, conſtrains us to a holy Violence in performing our Duty.</p>
+               <p n="43">43 Look upon the love of God, and it will cut the ſinews of ſin, and diſtruſt in Providence.</p>
+               <p n="44">44 Come in to Chriſt, and ſtoop, in doing thy Duty, and thou makes it unqueſtionable thou art one of God's Elect.</p>
+               <p n="45">45 Oh the deep Ocean of the everlaſting love of God to the Believer in giving him Free Grace, that ſhall bring a full Fraight of Glory to all Eternity!</p>
+               <p n="46">46 Heaven and Earth rejoices at the Converſi<g ref="char:EOLhyphen"/>on of a ſinner, effectual Calling purſuing Election, the loſt ſheep and penny being found.</p>
+               <p n="47">47 Remiſſion of ſins always accompanies Evan<g ref="char:EOLhyphen"/>gelical Repentance, it being the gift of God, but not legal VVitneſs. <hi>Peter</hi> and <hi>Judas.</hi>
+               </p>
+               <p n="48">
+                  <pb n="13" facs="tcp:34935:7"/>48 A godly Man, tho' poor, yet is ſtill happy. O happy <hi>Mordecai,</hi> and unhappy <hi>Haman!</hi> O hap<g ref="char:EOLhyphen"/>py <hi>Lazarus,</hi> and unhappy <hi>Dives!</hi> O happy <hi>Eli<g ref="char:EOLhyphen"/>jah,</hi> and unhappy <hi>Jezebel!</hi> O happy <hi>John,</hi> and un<g ref="char:EOLhyphen"/>happy <hi>Herod!</hi>
+               </p>
+               <p n="49">49 O the Magazine of Promiſes in the Bible to a Believer! it is an everlaſting Fountain, which ſhall never run dry; it's a Title to Eter<g ref="char:EOLhyphen"/>nal Life, where we ſhall enjoy the Company and Viſion of God, Angels and Saints, to all Eternity.</p>
+               <p n="50">50 Our love to God, is the ground of our love to our Neighbour; our love to our Neighbour, is a Teſtimony of our love to God.</p>
+               <p n="51">51 The living of a happy Life, conſiſts in the aſſurance of God's love to our Souls.</p>
+               <p n="52">52 They who have no conflict in their Spirit, nor interruption in their Eſtate, may greatly fear their condition.</p>
+               <p n="53">53 Complain of thy ſelf and ſins to Chriſt, and let ſin have no quiet Poſſeſſion.</p>
+               <p n="54">54 He is a true Chriſtian that lives in no groſs ſin, nor allows himſelf in any ſmall ſin.</p>
+               <p n="55">55 That Man dies comfortably, who believes Chriſt will have a care of his Soul.</p>
+               <p n="56">56 It is dangerous to take By-Paths, where the open Road is free and ſafe.</p>
+               <p n="57">57 They that are moſt void of Learning and Experiences, dabble moſt in dark places.</p>
+               <p n="58">58 That Heart is worſe than Iron, whom Chriſt's Load-ſtone cannot attack.</p>
+               <p n="59">59 The Graces of Chriſt are like the Springs of the Earth, can never run dry.</p>
+               <p n="60">60 But are, and ſhall be gliding forth on Earth, till the whole Elect be gathered up into Heaven, to Eternity.</p>
+               <p n="61">61 The love of Chriſtians to Chriſt, is not blind and ſenſeleſs, but guided by Reaſon and Election.</p>
+               <p n="62">
+                  <pb n="14" facs="tcp:34935:8"/>62 Grace deſtroys not Nature, but perfects <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it by ſupernatural Reliefs.</p>
+               <p n="63">63 There is a ſpecial intimacy and loving kind<g ref="char:EOLhyphen"/>neſs betwixt Chriſt and thoſe that love him<g ref="char:punc">▪</g>
+               </p>
+               <p n="64">64 The more we meditate upon God, and his Word, the ſweeter ſhall our fellowſhip be with him here, and to Eternity.</p>
+               <p n="65">65 Many Souls are black through the night of Perſecution, yet comely in the Hope of Patience.</p>
+               <p n="66">66 Falſe Teachers have many Followers, as Waſps have Combs, but no Honey.</p>
+               <p n="67">67 Some are Eagle ey'd, to ſpy the Infirmi<g ref="char:EOLhyphen"/>ties of their Brethren, paſſing over their Graces.</p>
+               <p n="68">68 Afflictions may diſcolour the Church for a ſeaſon; but her proper colour is Beauty for Aſhes.</p>
+               <p n="69">69 Get Protection in Chriſt by Faith, and he will not ſuffer thee to want any good thing.</p>
+               <p n="70">70 It is truly Chriſtianity for a Man to love thoſe that hate him, and to do them no wrong.</p>
+               <p n="71">71 It aggravates a Man's Sinfulneſs, to be un<g ref="char:EOLhyphen"/>holy while he converſes with ſuch as are holy.</p>
+               <p n="72">72 It brings Honour to God and Man, to be upright amongſt thoſe who are unjuſt.</p>
+               <p n="73">73 Perfect Holineſs is the Aim of the Saints on Earth, and it is the Reward in Heaven.</p>
+               <p n="74">74 He who hath a plain Heart, hath alſo ſquare Dealings.</p>
+               <p n="75">75 If God hath given thee Grace, thou haſt the beſt and choiceſt Bleſſing that can be given.</p>
+               <p n="76">76 There is Fire in all Eſtates ill gotten, which at laſt will conſume them.</p>
+               <p n="77">77 The fear of the Lord ſweeps the Heart, and keeps the Life clean.</p>
+               <p n="78">78 Holy Enmity againſt Sin is the Temper of a Godly Man's Heart.</p>
+               <p n="79">
+                  <pb n="15" facs="tcp:34935:8"/>79 Emptineſs and Poverty preſſeth thoſe moſt who were once full and rich.</p>
+               <p n="80">80 Great and Good, Rich and Holy, are hard things, and ſeldom meet.</p>
+               <p n="81">81 To be extream Rich or Poor, is an extream Temptation.</p>
+               <p n="82">82 That Man is rich in Grace, who is very poor, but very holy.</p>
+               <p n="83">83 God never gives any thing evil in it ſelf, to thoſe that are good; nor the chief good to thoſe that are evil.</p>
+               <p n="84">84 The Time we ſpend in Spiritual Duties is the Time gained from Temporals; therefore to turn Poor, if thou turn Godly, fear not.</p>
+               <p n="85">85 Nothing is more unnatural than Rents and Brawling in a Family.</p>
+               <p n="86">86 The faithful Soul takes ſure hold of Chriſt in the time of Darkneſs and Temptation.</p>
+               <p n="87">87 If thy Heart fail thee in Diſtreſs, look to Chriſt for ſtrength and ſupply of Comfort.</p>
+               <p n="88">88 The virtue of Chriſt's Death never dieth, but flows down to all Ages, for ever.</p>
+               <p n="89">89 God hath appointed, that where the Croſs is, there is the Cordial againſt it.</p>
+               <p n="90">90 Divine Love is the cauſe of Divine Beauty, and rejoyces in its own worth.</p>
+               <p n="91">91 The Beauty of the Soul is the Holineſs of it being God's Image.</p>
+               <p n="92">92 Chriſt hath the Truth and Eſſence of Beauty, whereas Earthly things have it only in Eſtimation.</p>
+               <p n="93">93 The unquiet Brains of many being toſſed with Opinions, ought to reſt in the Scripture as a Bed.</p>
+               <p n="94">94 Our Sins are Thorns, ſo are Temptations to Sin, and Affliction for Sin.</p>
+               <p n="95">95 Hereſies and Schiſms are worſe than Briars and Thorns to the Church.</p>
+               <p n="96">96 As weary Travellers ſeek for cool Arbours<g ref="char:punc">▪</g>
+                  <pb n="16" facs="tcp:34935:9"/> and delight in them; ſo doth the weary Soul, af<g ref="char:EOLunhyphen"/>ter and in Chriſt.</p>
+               <p n="97">97 It is neither loſs nor diſhonour, to be van<g ref="char:EOLhyphen"/>quiſhed in the Field where Chriſt is General; for at laſt we ſhall be Conquerors.</p>
+               <p n="98">98 They are happy beyond expreſſion, who are transfixed with the Wounds of Chriſt.</p>
+               <p n="99">99 It is God's due, and our Duty, to give God our Morning-Thoughts firſt, and to be in his Fear all the Day.</p>
+               <p n="100">100 All Holy Duties call upon us all for a Holy Preparation.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP.</hi> III.</head>
+               <p n="1">1 IT no ways befits Chriſtians to lye down and ſtretch themſelves in ſinful Pleaſures.</p>
+               <p n="2">2 The Elect on Earth have three degrees of Glory before they came to the full fruition in Heaven; after Converſion, after Death, and after Judgment, then full.</p>
+               <p n="3">3 A Holy Converſation makes Grace viſible to the World, and more Comfort to the Believer himſelf.</p>
+               <p n="4">4 Parents may put Money in their Childrens Pockets, but they cannot put Grace in their Hearts; yet to train them up in the Fear of the Lord.</p>
+               <p n="5">5 And their Care to them ought to be as long as their Children and they live together.</p>
+               <p n="6">6 And Children when grown in years, muſt not think they have out-grown Obedience to their Parents.</p>
+               <p n="7">7 And ſuch Parents as think to make their Chil<g ref="char:EOLhyphen"/>dren great, and not good in this World, may ſuſ<g ref="char:EOLhyphen"/>pect themſelves to be the Devil's Children.</p>
+               <p n="8">8 And the ſpecial Care of a holy Father is ſo the Soul of his Child.</p>
+               <p n="9">9 Moderate Refreſhing and Recreation may well become Holy Men.</p>
+               <p n="10">
+                  <pb n="17" facs="tcp:34935:9"/>10 Grace is very active; it deſires to draw many into fellowſhip with it ſelf.</p>
+               <p n="11">11 God doth not only pleaſe the Creature, but pleaſeth himſelf when he ſheweth Mercy.</p>
+               <p n="12">12 The induſtrious Man hath no time to ſin, the idle Man lyes open to its Snares.</p>
+               <p n="13">13 He is a happy Man that finds a true Friend in the time of extremity; but he is a happier Man that hath no extremity to try his Friend.</p>
+               <p n="14">14 Better carry our ſelves that the World hate, and God ſmile; than that God frown, and the World ſmile.</p>
+               <p n="15">15 There is a time coming when Ungodlineſs ſhall be as much proſecuted by Juſtice, as in times paſt Godlineſs hath been perſecuted by Injuſtice.</p>
+               <p n="16">16 They can but faintly make God known to others, who are not acquainted with God them<g ref="char:EOLhyphen"/>ſelves; and to teach Chriſt to others, who have not learn'd him themſelves.</p>
+               <p n="17">17 Whoever brings Mercy in need, both the Mercy and the Bringer are of God's ſending. Good Samaritan.</p>
+               <p n="18">18 God will ſtain the Pride of all Carnal Glory; for indeed all Pride would ſtain his Glory.</p>
+               <p n="19">19 It is not Man's Free Will, but God's Free Grace, which makes<g ref="char:punc">▪</g> one Man differ from another in Goodneſs.</p>
+               <p n="20">20 I am ſure there is more of the Dew of Hea<g ref="char:EOLhyphen"/>ven upon a mortified Chriſtian, than on the World<g ref="char:EOLhyphen"/>ling in all his Pleaſures. <hi>Haman.</hi>
+               </p>
+               <p n="21">21 The Faults of Holy Men in Scripture, ſhould teach us rather to fear, than boldneſs to ſin.</p>
+               <p n="22">22 The Devil doth not, nay, cannot hate a Saint ſo much as God loves him.</p>
+               <p n="23">23 It uſually falls out, that they who ſeek others Deſtruction, find their own. <hi>Pharaoh.</hi>
+               </p>
+               <p n="24">
+                  <pb n="18" facs="tcp:34935:10"/>24 They do not faithfully Love, who love not Faithfulneſs.</p>
+               <p n="25">25 They who are moſt with God in ſecret, know moſt of God's Secrets; for he is moſt with them that fear him.</p>
+               <p n="26">26 The Lord's Portion is his People, and the Lord is his People's Portion.</p>
+               <p n="27">27 While Saints are on Earth, Chriſt is pre<g ref="char:EOLhyphen"/>paring Heaven for them, and them for Heaven.</p>
+               <p n="28">28 We may well wait for the Lord's Grace, ſince the Lord waits to be gracious.</p>
+               <p n="29">29 The Saints have more Comfort from God's Love to them, than they have from their Love to God.</p>
+               <p n="30">30 For it is ſeldom that the Duty ſanctifies us, unleſs we labour to be ſanctified for the Duty.</p>
+               <p n="31">31 Of old they offered up a Beaſt in Sacrifices, but now God takes Obedience for a better.</p>
+               <p n="32">32 In Trouble we reckon it ſome Joy to get a faithful Friend to tell our Mind to. O then doth not Experience bid the Godly call on him in the day of trouble, and he will deliver them?</p>
+               <p n="33">33 God in the Sacrament ſees the Death of his Son, and that ſatisfies him; and the Godly ſee the Death of their Saviour, and that ſanctifies them.</p>
+               <p n="34">34 Acting of Faith, and pouring out of Prayers, makes Sacraments effectual to Men, and accepta<g ref="char:EOLhyphen"/>ble to God.</p>
+               <p n="35">35 Chriſt was ever, and is, and ſhall be the on<g ref="char:EOLhyphen"/>ly Remedy for Sin.</p>
+               <p n="36">36 Uſually, where God gives much Grace, he tries Grace much.</p>
+               <p n="37">37 A Man that hath got an Intereſt in Chriſt, will be thirſting till he come to that bottom<g ref="char:EOLhyphen"/>leſs Ocean of God's Love to him, where he ſhall never thirſt more to Eternity.</p>
+               <p n="38">
+                  <pb n="19" facs="tcp:34935:10"/>38 <hi>Adam,</hi> tho' Lord of the whole Earth, was commanded to Work O then let us fly Idle<g ref="char:EOLhyphen"/>neſs, for it is like a Shop for the Devil to tread in, or his Baggage-Horſes.</p>
+               <p n="39">39 <hi>Dinah</hi> went idly to ſee the Daughters of the Land, and loſt her Virginity; and was occaſion of much Blood-ſhed, a whole City being killed; and made her old Father <hi>Jacob</hi> ſtink among the Inhabitants.</p>
+               <p n="40">40 Carnal Pleaſures wither in uſing, but Spi<g ref="char:EOLhyphen"/>ritual becomes freſh and green.</p>
+               <p n="41">41. A holy Soul longs to be uncloathed; and lives not in it ſelf, but in Chriſt, in whom its Life is hid.</p>
+               <p n="42">42 To be without groſs Sin, is our Holineſs on Earth; to be without any Sin, is the Holineſs of Heaven.</p>
+               <p n="43">43 He that repents of thoſe Sins he fears he has committed, ſhall be ſure to repent of thoſe Sins he doth commit.</p>
+               <p n="44">44 For a Man to bleſs God in his reigning Sins, reſolving to continue in them, is a very ſpreading Deceit.</p>
+               <p n="45">45 Chriſt denied himſelf for us, and left Hea<g ref="char:EOLhyphen"/>ven to redeem us; and therefore we ſhould deny our ſelves for him.</p>
+               <p n="46">46 Saints have ſometimes in this Life, enough to ſay, It is good to be here; but never enough to ſay, It is beſt to be here.</p>
+               <p n="47">47 A Saint ſhould welcom God when he comes to take, as well as when he comes to give.</p>
+               <p n="48">48 God loves his People as well when he ſtrikes them, as when he ſtroaks them.</p>
+               <p n="49">49 That Man hath nothing who wants Chriſt, and that Man who hath Chriſt wants nothing.</p>
+               <p n="50">50 God hath promiſed to keep his People, and
+<pb n="20" facs="tcp:34935:11"/> he will keep his Promiſe; <hi>I will keep them as the Ap<g ref="char:EOLhyphen"/>ple of mine Eye.</hi>
+               </p>
+               <p n="51">51 A Chriſtian ſhould poſſeſs his Soul in the Patience of Hope, until his Soul poſſeſs that which he hath patiently hoped for.</p>
+               <p n="52">52 As all Rivers flow from the Ocean, and to the Ocean; ſo all Graces from Chriſt, and to Chriſt.</p>
+               <p n="53">53 As the Fiſhes cannot live without Water, nor the Birds without Air, no more can a Be<g ref="char:EOLhyphen"/>liever without Chriſt.</p>
+               <p n="54">54 In Affliction let us not give more eat to the Devil, and Conſcience accuſing, than to Chriſt, and his Mercy excuſing.</p>
+               <p n="55">55 Whilſt ſome Men walk to get Stomachs for their Meat, others are glad to walk to get Meat for their Stomachs.</p>
+               <p n="56">56 If we live to the Devil here, it is a token we ſhall live with him hereafter; and if we live to God here, that we ſhall live with him hereaf<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="57">57 If bad Tongues could make Men ill, then many a good Man would be in evil taking.</p>
+               <p n="58">58 Many Men, while diſputing what to do, in the mean time neglect the thing they ought to do without diſpute.</p>
+               <p n="59">59 To maintain my Opinion, becauſe it is my own, I think it my Folly; but to maintain my Opinion, becauſe it is Truth, I think it my Wiſdom.</p>
+               <p n="60">60 Let us not ſeek Revenge on our Enemies; for if they get Grace they'll repent, and if they get Hell, they'll have more than we deſire: One they muſt get.</p>
+               <p n="61">61 No Man on Earth can be in ſo bad a condi<g ref="char:EOLhyphen"/>tion, but he may be in a worſe, that's in Hell. So let us not deſpair, for it is the Lord's Mercy we are not conſumed.</p>
+               <p n="62">
+                  <pb n="21" facs="tcp:34935:11"/>62 Of the Sluggard <hi>Solomon</hi> ſays, he ought not to eat, yea, but to ſuffer Hunger; the Rain drops through his Roof, and his Vineyard is overgrown with Nettles.</p>
+               <p n="63">63 It is a wilful Error, to chuſe to be ſolitary, when there is a holy and wholly conſent of good Company.</p>
+               <p n="64">64 This is the difference between Saints and Hypocrites in Grace; the one the Motion, the other the Notion; the one the Expreſſion, the other the Experience; the one reads and hears, the other taſtes and feels.</p>
+               <p n="65">65 The Ox or the Swine crying under the Hand of the Butcher, I have ſeen the reſt come for their relief. O then how ought Chriſtians to love, relieve, and ſympathize one with another, under the hands of Perſecutors.</p>
+               <p n="66">66 Every Sin is a turning from God; but no Sins in his own can be a Farewel to God; for he will bring them back with Stripes and Rods.</p>
+               <p n="67">67 The Heart is to be kept with all diligence, for ſinful Thoughts are dangerous.</p>
+               <p n="68">68 For the Hearts of Men are ſo wicked, as to ſin on ſin a thouſand times over.</p>
+               <p n="69">69 All things in Heaven and Earth are diſpoſed by the unerring Wiſdom of God, and limited by the Almighty Power.</p>
+               <p n="70">70 Sleep is a ſhort Death, and Death is a long Sleep.</p>
+               <p n="71">71 It ſhould be the Voice of every Soul, <hi>Lord, what wilt thou have me to do?</hi>
+               </p>
+               <p n="72">72 There is no truſting to any Eſtate whatſoe<g ref="char:EOLhyphen"/>ver, out of Chriſt.</p>
+               <p n="73">73 None of us, left to our ſelves, but will quite undo our ſelves.</p>
+               <p n="74">74 Sin ſpoils our Honour and Comfort at once.</p>
+               <p n="75">75 He that is wicked, will be an Adverſary, if
+<pb n="22" facs="tcp:34935:12"/> Grace prevent not: No ſooner a Sinner, but a Satan.</p>
+               <p n="76">76 All Apoſtacy from Goodneſs, is a ſpice of the Devil.</p>
+               <p n="77">77 The height of Holineſs is not only to do Good, but to oppoſe Evil.</p>
+               <p n="78">78 It is the Duty of a Chriſtian to be as full of Malice againſt the Devil as the Devil is againſt him.</p>
+               <p n="79">79 Tho' the Devil roars about, yet he is in a double Chain of Juſtice, being under the Wrath and Eye of God.</p>
+               <p n="80">80 They who depart from God, ſhall never find true reſt in any Creature.</p>
+               <p n="81">81 Wicked Men, tho' never ſo great, are ſcarce worth the looking on.</p>
+               <p n="82">82 Cloiſters are opener to Satan's Temptation than the open Fields.</p>
+               <p n="83">83 There is a kind of Joy amongſt Devils and wicked Men when the godly Man ſins.</p>
+               <p n="84">84 It is a holy Ambition, to ſtrive to excel others in Grace and Goodneſs.</p>
+               <p n="85">85 It is a Man's Duty, when God enlighten<g ref="char:EOLhyphen"/>eth and gives Joy, to warble forth his Praiſe.</p>
+               <p n="86">86 The Groans of a contrite Heart, are Muſick in God's Ears, and a ſure Proof of his Spirit in us.</p>
+               <p n="87">87 God is a ſecure Rock, to defend his Doves when they are hunted and perſecuted.</p>
+               <p n="88">88 God bids his Servants ask and they ſhall have, and it grieves him they do not ask.</p>
+               <p n="89">89 The Church ſuffers as much from Hereſie and Schiſm, as from blind and mad Heathens.</p>
+               <p n="90">90 Every faithful Soul is God's Garden, and every Grace is a beauteous Lilly</p>
+               <p n="91">91 As the Waves on the back of one another are uſeful to help the Ship to the Heaven of reſt, ſo are Afflictions to the Godly Man.</p>
+               <p n="92">
+                  <pb n="23" facs="tcp:34935:12"/>92 A Holy Life is pleaſanter to a Chriſtian, than the Sun to the Earth, or Wings to a Bird.</p>
+               <p n="93">93 The Tranquillity and Peace of a good Con<g ref="char:EOLhyphen"/>ſcience, excels all worldly Treaſure.</p>
+               <p n="94">94 The Application of Chriſt's Blood, is not only our Strength, but our Glory and Prote<g ref="char:EOLhyphen"/>ction.</p>
+               <p n="95">95 He that bleſſeth God in his Afflictions, his Afflictions ſhall be a Bleſſing unto him.</p>
+               <p n="96">96 When a Seducer ſpeaks Truth, he doth ſet a Snare to catch the Truth.</p>
+               <p n="97">97 In great Strains look not ſo much on the preſent, as what we were, and ſhall be e're long, and that will give content.</p>
+               <p n="98">98 Tho' Sectaries intend it not, yet Antichriſt and Hell have no better Agents.</p>
+               <p n="99">99 No Man's Calling muſt call him from God or Godlineſs; for particular things muſt give way to general.</p>
+               <p n="100">100 Sun, Moon and Stars, Birds of the Air, Fiſhes of the Sea, Trees of the Field, ſpread forth JEHOVA s Praiſe; O how much more then ſhould Chriſtians, that ſhall live in that Employ to all Eternity!</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34935:13"/>
+            <head>Books Newly Printed and Sold by <hi>John Marſhall,</hi> at the <hi>Bible</hi> in <hi>Grace Church-Street.</hi>
+            </head>
+            <p>VAriety without Vanity; or, a compact Number of Copies; with moſt ſorts of Copy-Books, Copies on the Top to Learn by; alſo Variety of Pictures, as Birds, Beaſts, <hi>&amp;c.</hi>
+            </p>
+            <p>A Declaration, of the Congregational Mini<g ref="char:EOLhyphen"/>ſters in and about <hi>London,</hi> againſt Antinomian Errors, <hi>&amp;c.</hi> The ſecond Edition. To which is added, the Teſtimony of ſome of the Miniſters in behalf of the Reſt.</p>
+            <p>All Men muſt Die. In a Funeral Sermon on the Death of Mr. <hi>Elias Keach.</hi> By <hi>Nathaniel Wiles.</hi>
+            </p>
+            <p>A Sermon on the Death of the Reverend Mr. <hi>Stephen Lobb.</hi> By <hi>Thomas Goodwin.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>A Funeral Sermon preached at the Merchants Lecture in <hi>Broad-ſtreet,</hi> upon the Death of the Re<g ref="char:EOLhyphen"/>verend Mr. <hi>Thomas Gouge,</hi> who Deceaſed <hi>January</hi> 8. 1700. By <hi>John Nesbitt.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>Divine Meditations, or, a Honey-comb to Re<g ref="char:EOLhyphen"/>freſh weary Travellers, in Collection of Divine Sentences out of the Scripture of Truth. Price Stitcht 2 <hi>d.</hi>
+            </p>
+            <p>Two Diſcourſes on Patience, being ſome of the Laſt Sermons of Mr. <hi>Elias Keach,</hi> publiſhed by himſelf before his Death.</p>
+            <p>The Flowings of Chriſt's Blood freely to Sin<g ref="char:EOLhyphen"/>ners, or the free Grace of God. By Mr. <hi>Saltmarſh.</hi>
+            </p>
+            <p>A few Lines Touching Baptiſm; ſhewing, 1. What Baptiſm is. 2. Who are the fit Subjects. 3. The Good Old Way of Baptizing. 4. Some Objections anſwered by <hi>Matthew Fen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34935:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
